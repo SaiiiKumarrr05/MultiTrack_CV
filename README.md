@@ -1,5 +1,5 @@
 # [CVPRW2023] Addressing the Occlusion Problem in Multi-Camera People Tracking with Human Pose Estimation
-The official resitory for 7th NVIDIA AI City Challenge (Track1: Multi-Camera People Tracking) from team Netspresso ([Nota Inc.](https://www.nota.ai/))
+The official resitory for 7th NVIDIA AI City Challenge (Track1: Multi-Camera People Tracking) from team Netspresso 
 ![Alt Text](demos/demo.gif)
 
 ## Environment
